@@ -1,7 +1,10 @@
 pandas
 numpy
 seaborn
-#-e .
 scikit-learn
 catboost
 xgboost
+dill
+flask
+gunicorn==21.2.0
+#-e .
